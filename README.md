@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on different Frontend React js Web projects...
 - 📫 How to reach me  my Ph-no 03029160095 /
 -     Email: samar.sadeeq7550@gmail.com
--     snapchat:Samar33203 ...
 
 <!---
 Samar-Siddique/Samar-Siddique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
